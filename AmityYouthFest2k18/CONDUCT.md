@@ -17,6 +17,6 @@ We also have a confidential
 Moderators are volunteers, busy bees. They will usually reply to you very promptly or connect you with someone who can, but if your query is taking time, please be patient.
 
 ## What if I disagree with the moderator who reached out to me?
-Feel free to reach out to other moderators or fill the [form].
+Feel free to reach out to other moderators or fill the [form](http://bit.ly/htn-suggestions).
 
 [form]: (@omi,form)
